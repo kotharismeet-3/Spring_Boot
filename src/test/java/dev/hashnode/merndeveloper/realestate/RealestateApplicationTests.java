@@ -1,10 +1,10 @@
-package dev.hashnode.merndeveloper.crud;
+package dev.hashnode.merndeveloper.realestate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CrudApplicationTests {
+class RealestateApplicationTests {
 
 	@Test
 	void contextLoads() {

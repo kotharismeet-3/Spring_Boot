@@ -1,12 +1,13 @@
-package dev.hashnode.merndeveloper.crud;
+package dev.hashnode.merndeveloper.realestate;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
-public class CrudApplication {
+public class RealestateApplication {
+
 	public static void main(String[] args) {
-		SpringApplication.run(CrudApplication.class, args);
+		SpringApplication.run(RealestateApplication.class, args);
 	}
+
 }
